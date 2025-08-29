@@ -9,19 +9,18 @@
 
 ## 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,java,python,powerbi,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,python,powerbi,git" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Aldarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldarinjino&show_icons=true&theme=radical)  
+![Aldarin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ALDARIN25&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldarinjino&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALDARIN25&layout=compact&theme=radical)
 
----
 
 ## 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
-- Portfolio: [Your Portfolio](https://yourportfolio.com)  
-- Email: **your.email@example.com**
+- LinkedIn: (https://www.linkedin.com/in/aldarin-jino-97265023a/?originalSubdomain=in)
+- Instagram:(https://www.instagram.com/aldarin_jino_/)
+- Email: **jinoaldarin@gmail.com**
