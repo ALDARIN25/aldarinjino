@@ -15,7 +15,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Aldarin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ALDARIN25&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALDARIN25&layout=compact&theme=radical)
 
